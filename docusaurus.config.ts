@@ -68,7 +68,7 @@ const config: Config = {
       items: [
         {to: '/blog', label: 'Blog', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/udonrm/TechTechUdon',
           label: 'GitHub',
           position: 'right',
         },
