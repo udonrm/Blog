@@ -1,0 +1,31 @@
+:root {
+  --ifm-background-color: #FFFFFF; /* 全体背景 白 */
+  --ifm-font-color-base: #222222;  /* 文字色はシンプルな黒グレーで読みやすく */
+
+  --ifm-color-primary: #E4E6E8;       /* 一番濃いグレーをメインカラー */
+  --ifm-color-primary-dark: #E4E6E8;
+  --ifm-color-primary-darker: #E4E6E8;
+  --ifm-color-primary-darkest: #E4E6E8;
+  --ifm-color-primary-light: #E9EBEC;
+  --ifm-color-primary-lighter: #EEF0F1;
+  --ifm-color-primary-lightest: #F8F8F8;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: #EEF0F1;
+}
+
+/* ダークモードも白系固定（暗くしない） */
+[data-theme='dark'] {
+  --ifm-background-color: #FFFFFF;
+  --ifm-font-color-base: #222222;
+
+  --ifm-color-primary: #E4E6E8;
+  --ifm-color-primary-dark: #E4E6E8;
+  --ifm-color-primary-darker: #E4E6E8;
+  --ifm-color-primary-darkest: #E4E6E8;
+  --ifm-color-primary-light: #E9EBEC;
+  --ifm-color-primary-lighter: #EEF0F1;
+  --ifm-color-primary-lightest: #F8F8F8;
+
+  --docusaurus-highlighted-code-line-bg: #EEF0F1;
+}
