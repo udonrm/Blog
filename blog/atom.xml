@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://udonrm.github.io/TechTechUdon/blog</id>
+    <title>てくてくうどん Blog</title>
+    <updated>2025-03-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://udonrm.github.io/TechTechUdon/blog"/>
+    <subtitle>てくてくうどん Blog</subtitle>
+    <icon>https://udonrm.github.io/TechTechUdon/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[初投稿]]></title>
+        <id>https://udonrm.github.io/TechTechUdon/blog/初投稿</id>
+        <link href="https://udonrm.github.io/TechTechUdon/blog/初投稿"/>
+        <updated>2025-03-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[個人ブログ初投稿です。]]></summary>
+        <content type="html"><![CDATA[<p>個人ブログ初投稿です。</p>
+<p>新卒エンジニア1年目が終了しようとしているタイミングで、今一度アウトプットを頑張らねばと思ったので。。。</p>
+<p>モチベを上げるという意味も含めて<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>で憧れの個人ブログを作りました。</p>
+<p>まだ手探り状態ですがDocusaurusの環境構築はほぼ終わりました。
+ぼちぼち書いていきます。</p>]]></content>
+        <author>
+            <name>udonrm</name>
+            <uri>https://github.com/udonrm</uri>
+        </author>
+        <category label="Poem" term="Poem"/>
+    </entry>
+</feed>

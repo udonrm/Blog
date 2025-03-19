@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkudonrm=self.webpackChunkudonrm||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/TechTechUdon/blog","blogTitle":"Blog","authorsListPath":"/TechTechUdon/blog/authors"}')}}]);

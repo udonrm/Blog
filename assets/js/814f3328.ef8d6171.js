@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkudonrm=self.webpackChunkudonrm||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u521d\u6295\u7a3f","permalink":"/TechTechUdon/blog/\u521d\u6295\u7a3f","unlisted":false,"date":"2025-03-19T00:00:00.000Z"}]}')}}]);
